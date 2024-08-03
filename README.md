@@ -1,1 +1,1 @@
-Connectore
+Connectors
